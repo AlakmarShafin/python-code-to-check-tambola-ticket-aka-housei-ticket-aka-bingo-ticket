@@ -1,5 +1,5 @@
 # python-code-to-check-tambola-ticket-aka-housei-ticket-aka-bingo-ticket
-
+#its simplest and one of the most famous indoor game of indian houses.
 # usage
 to check the tambola(housie , bingo) ticket no wise
 and it also tells you if you win any of the following:
